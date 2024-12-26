@@ -21,7 +21,7 @@ from rich.text import Text
 from rich.style import Style
 from cpmnuker import CPMNuker
 
-__CHANNEL_USERNAME__ = "Toolcpm2"
+__CHANNEL_USERNAME__ = "Toofuck2"
 __GROUP_USERNAME__   = "cpm2a"
 
 def signal_handler(sig, frame):
